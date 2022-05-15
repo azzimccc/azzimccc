@@ -1,5 +1,8 @@
 Hello Github
+### Info
+- :telescope: I’m working as a Software Developer and contribute to backend programming.
 
+- :zap: 
 ---
 
 ### :hammer_and_wrench: Language(s) and Tool(s) :
@@ -20,7 +23,7 @@ Hello Github
 
 ---
 
-### :fire: My Stats :
+### :fire: Stat(s) :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azzimccc&theme=dark&background=000000)](https://git.io/streak-stats)
 
