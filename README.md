@@ -1,6 +1,6 @@
 Hello Github
 ### Info
-- :telescope: I’m working as a Software Developer and contribute to backend programming.
+- :telescope: Software Developer
 
 - :zap: 
 ---
